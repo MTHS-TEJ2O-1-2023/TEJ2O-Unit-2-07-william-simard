@@ -1,8 +1,8 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2023 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
- * This program ...
+ * Created by: william s
+ * Created on: oct 2023
+ * This program is (showing cookie clicker on the microbit)
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, World!') 
